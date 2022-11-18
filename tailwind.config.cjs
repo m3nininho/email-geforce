@@ -6,7 +6,7 @@ module.exports = {
     colors: {
       bgBody: '#000',
       colorTitle: '#76b900',
-      colorDefault: '#FFF'
+      colorDefault: '#FFF',
     }
   },
   plugins: [],

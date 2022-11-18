@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+.externalLink{
+  color: #c955ff;
+  text-decoration: underline;
+}
